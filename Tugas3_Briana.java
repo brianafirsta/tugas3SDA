@@ -70,7 +70,6 @@ public class Tugas3_Briana {
         System.out.println("Output Alamat Baru\t:"+alamat+", Ukuran :" +alamat.size());
         System.out.println("  \n");
 
-
         //fungsi isEmpty
         System.out.println("FUNGSI IsEmpty");
         System.out.println("--------------");
